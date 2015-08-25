@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EXECMBA-3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_status_wifi">StatusWifiActivity</string>
+    <string name="tv_conexao">Conexão</string>
+    <string name="tv_info">Alertar de alterações de conexões Wif-Fi e USB</string>
+    <string name="title_activity_status_usb">StatusUsbActivity</string>
+</resources>
